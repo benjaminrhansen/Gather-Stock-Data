@@ -1,7 +1,1 @@
-# Python
-
-This is the Template Repl for Python.
-
-Python is a dynamic language emphasizing readability.
-
-[Check out the official docs here](https://www.python.org/).
+Gather data for personal CSVs and analysis on historical stock data. Data gathered is provided by [Financial Modeling Prep](https://financialmodelingprep.com/developer/docs/).
